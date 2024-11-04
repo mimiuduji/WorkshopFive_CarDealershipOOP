@@ -15,3 +15,6 @@ public class LeaseContract extends Contract {
         // Calculation logic here
     }
 }
+
+
+
